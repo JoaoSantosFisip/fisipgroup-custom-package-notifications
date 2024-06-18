@@ -1,0 +1,18 @@
+{
+    "name": "com.fisipgroup.notifications.tests",
+    "rootNamespace": "",
+    "references": [
+        "GUID:ac145e6b8c6034cdbadc8c6e26aedbcf",
+        "GUID:1e8e55397bd004beaba78a667566665f",
+        "GUID:8173b7e3a49021c4f82765c8b0540ef3"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
