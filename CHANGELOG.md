@@ -1,5 +1,8 @@
 All notable changes to this project will be documented in this file.
 
+[1.0.3] - 2024-07-25
+ - Changed script icons.
+
 [1.0.2] - 2024-06-18
  - Moved NotificationsTest.cs to Runtime
 
